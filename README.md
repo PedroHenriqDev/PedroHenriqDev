@@ -16,5 +16,5 @@
 <hr/>
 
 ### Main project:
-- [Social network - ASP.NET](https://github.com/PedroHenriqDev/-Social-Network-Asp-Net)
+[Social network - ASP.NET](https://github.com/PedroHenriqDev/-Social-Network-Asp-Net)
 
