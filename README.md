@@ -2,6 +2,8 @@
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-29b2782aa/)
 [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpedrohenri@gmail.com)
 
+<hr/>
+
 ## Technologies I use on a daily basis
 <div style="display inline_block"><br/>
   <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -11,6 +13,7 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>	
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>	
 </div><br/>
+<hr/>
 
 ### Main project:
 - [Social network - ASP.NET](https://github.com/PedroHenriqDev/-Social-Network-Asp-Net)
