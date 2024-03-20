@@ -17,6 +17,9 @@
 </div><br/>
 <hr/>
 
-### Main project:
-[Social network - ASP.NET](https://github.com/PedroHenriqDev/-Social-Network-Asp-Net)
+### Main projects:
+[Social Network - ASP.NET](https://github.com/PedroHenriqDev/-Social-Network-Asp-Net)
+
+[Manager School - C#](https://github.com/PedroHenriqDev/Forms-CSharp)
+
 
