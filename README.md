@@ -18,8 +18,8 @@
 <hr/>
 
 ### Main projects:
-[Social Network - ASP.NET](https://github.com/PedroHenriqDev/-Social-Network-Asp-Net)
+[Character - API/Graphql](https://github.com/PedroHenriqDev/Graphql-Character)
 
-[Manager School - C#](https://github.com/PedroHenriqDev/Forms-CSharp)
+[Catalog - Api Restful](https://github.com/PedroHenriqDev/APICatalog)
 
 
