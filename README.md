@@ -18,7 +18,7 @@
 <hr/>
 
 ### Main projects:
-[Character - API/Graphql](https://github.com/PedroHenriqDev/Graphql-Character)
+[Catalogue - Minimal Api Restful](https://github.com/PedroHenriqDev/Graphql-Character)
 
 [Catalog - Api Restful](https://github.com/PedroHenriqDev/APICatalog)
 
