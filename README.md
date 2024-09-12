@@ -18,8 +18,7 @@
 <hr/>
 
 ### Main projects:
-[Catalogue - Catalogue API - Module Endpoint Pattern](https://github.com/PedroHenriqDev/CatalogueAPI-ModularEndpointPattern)
-
+[API RESTFul - Best Practices](https://github.com/PedroHenriqDev/API-RESTful-BestPractices)
 [Catalog - Api Restful](https://github.com/PedroHenriqDev/APICatalog)
 
 
