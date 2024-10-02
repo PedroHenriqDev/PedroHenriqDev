@@ -18,8 +18,8 @@
 <hr/>
 
 ### Main projects:
-[Minimal API RESTFul - Best Practices](https://github.com/PedroHenriqDev/Minimal-API-RESTful)
+[Minimal API](https://github.com/PedroHenriqDev/Minimal-API-RESTful)
 
-[Catalog - Api Restful](https://github.com/PedroHenriqDev/APICatalog)
+[Rooms-AspNet](https://github.com/PedroHenriqDev/Rooms-AspNet)
 
 
